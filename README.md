@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyberkurk
 - 👀 I’m interested in robotics,computer vision,NLP,deep learning
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning AI / ML
 - 💞️ I’m looking to collaborate on AI projects 
 - 📫 How to reach me 
 email id : cyberkurk@gmail.com
