@@ -1,5 +1,5 @@
 ### Hi there, I'm Mayank Malhotra 👋 
-<p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
+<p align="center"><img src="https://quotefancy.com/media/wallpaper/3840x2160/2067416-Linus-Torvalds-Quote-Avoiding-complexity-reduces-bugs.jpg"></p>
 
 
 
