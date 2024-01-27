@@ -18,7 +18,7 @@
 <br>
 <h2>📊 Github Stats</h2>
 
-![Mayank's Github Stats](https://github-readme-stats.vercel.app/api?username=prodigy-mayankshow_icons=true&theme=great-gatsby)
+![Mayank's Github Stats](https://github-readme-stats.vercel.app/api?username=prodigy-mayank&show_icons=true&theme=great-gatsby)
 
 <br>
 
