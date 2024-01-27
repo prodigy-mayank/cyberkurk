@@ -11,14 +11,14 @@
 - 🌱 I am currently learning ML. 
 - 👯 I’m looking to collaborate in machine leanrning dev projects
 - 💬 Ask me about Machine Learning Models and Aritificial Intelligence.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:cyberkurk@gmail.com) 
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:prodigy.mayank@gmail.com) 
 - ⚡ Fun fact: I love going gym.
-- Profile views: ![](https://komarev.com/ghpvc/?username=cyberkurk)
+- Profile views: ![](https://komarev.com/ghpvc/?username=prodigy-mayank)
 
 <br>
 <h2>📊 Github Stats</h2>
 
-![Mayank's Github Stats](https://github-readme-stats.vercel.app/api?username=cyberkurk&theme=onedark)
+![Mayank's Github Stats](https://github-readme-stats.vercel.app/api?username=prodigy-mayank&theme=onedark)
 
 <br>
 
@@ -49,13 +49,13 @@
 
 <a href="https://www.linkedin.com/in/mayank-malhotra-90a6671b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" /></a>
 <a href="https://www.instagram.com/livingonbyte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/cyberkurk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://leetcode.com/cyberkurk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/prodigy_mayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://leetcode.com/prodigy_mayank/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
 </p>
 
 
 
 <!---
-cyberkurk/cyberkurk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+prodigy-mayank/prodigy-mayank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
